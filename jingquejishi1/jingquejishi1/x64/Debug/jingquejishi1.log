@@ -1,0 +1,3 @@
+﻿  FileName.cpp
+D:\MyVS\jingquejishi1\jingquejishi1\FileName.cpp(7,12): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+  jingquejishi1.vcxproj -> D:\MyVS\jingquejishi1\x64\Debug\jingquejishi1.exe
