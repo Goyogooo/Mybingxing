@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\MyVS\\jingquejishi4b\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2F55F557-4C30-465A-83D5-CB0B897D9B1B}|jingquejishi4b\\jingquejishi4b.vcxproj|D:\\MyVS\\jingquejishi4b\\jingquejishi4b\\test.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2F55F557-4C30-465A-83D5-CB0B897D9B1B}|jingquejishi4b\\jingquejishi4b.vcxproj|solutionrelative:jingquejishi4b\\test.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "test.cpp",
+              "DocumentMoniker": "D:\\MyVS\\jingquejishi4b\\jingquejishi4b\\test.cpp",
+              "RelativeDocumentMoniker": "jingquejishi4b\\test.cpp",
+              "ToolTip": "D:\\MyVS\\jingquejishi4b\\jingquejishi4b\\test.cpp",
+              "RelativeToolTip": "jingquejishi4b\\test.cpp",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAAB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-21T11:27:19.315Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
